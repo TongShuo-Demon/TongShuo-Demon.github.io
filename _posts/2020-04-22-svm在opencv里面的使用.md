@@ -3,14 +3,9 @@ title: svm在opencv里面的使用
 description: 
 categories:
  - RM
+ - tool
 tags:
 ---
-
-
-
-
-
-
 
 SVM三宝：间隔、对偶、核技巧，SVM通过超平面对物体进行分类。
 
