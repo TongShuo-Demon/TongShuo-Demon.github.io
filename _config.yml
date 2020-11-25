@@ -5,8 +5,8 @@
 
 # Site
 title: 飞翔的猪猪
-subtitle:                                                #网站子标题
-description: 涉及RM、C++、Python、计算机视觉
+subtitle:   南风知我意，吹梦到西洲                                           #网站子标题
+description: CV、Python、c++、deep learning、machine learning 、ubuntu
 author: Demon
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -532,7 +532,7 @@ leancloud_visitors:
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
 busuanzi_count:
   # count values only if the other configs are false
-  enable: false
+  enable: ture
   # custom uv span for the whole site
   site_uv: true
   site_uv_header: 访客数 # <i class="fa fa-user"></i>
@@ -563,7 +563,7 @@ baidu_push: true
 # API Documentation:
 # https://developers.google.com/google-apps/calendar/v3/reference/events/list
 calendar:
-  enable: false
+  enable: true
   calendar_id: ts969383078@gmail.com
   api_key: AIzaSyAFfC9LM4pVuYrOvVk0NM-gZVQ2N2tJwQU
   orderBy: startTime
